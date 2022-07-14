@@ -4,7 +4,7 @@ The script is adapted from https://code.earthengine.google.com/2bca4e5f36d5a2d64
 Credits to Gennadii Donchyts.
 */
 
-// var oeel=require('users/OEEL/lib:loadAll')
+var oeel=require('users/OEEL/lib:loadAll')
 
 var trial = function(){
   
